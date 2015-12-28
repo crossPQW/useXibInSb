@@ -11,7 +11,7 @@
             <rect key="frame" x="0.0" y="0.0" width="404" height="353"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="580c7f8419ffc514ef7924b0d4ef4177.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="k7i-0I-yEq">
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="580c7f8419ffc514ef7924b0d4ef4177.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="k7i-0I-yEq" userLabel="BGImage">
                     <rect key="frame" x="0.0" y="0.0" width="404" height="353"/>
                     <animations/>
                 </imageView>
